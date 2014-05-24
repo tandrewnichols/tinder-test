@@ -1,4 +1,4 @@
-tinder-test
-===========
+# <%= repoName %>
 
-Test repo for tinder
+
+<%= description %>
