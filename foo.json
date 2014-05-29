@@ -1,0 +1,3 @@
+{
+  "keywords": ["<% print(keywords.join('",\n    "') %>"]
+}

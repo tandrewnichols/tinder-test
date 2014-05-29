@@ -4,5 +4,5 @@
 <%= description %>
 
 keywords: [
-  <% print(keywords.join(',\n  ')); %>
+  <% print(keywords.join(',<br/><br/>  ')); %>
 ]
